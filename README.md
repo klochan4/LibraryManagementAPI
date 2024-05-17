@@ -6,7 +6,7 @@ This is a Library Management API built using ASP.NET Core, providing endpoints t
 
 ### Prerequisites
 
-- .NET 6.0 SDK or later
+- .NET 8.0 SDK or later
 - SQL Server (local or remote)
 
 ### Installation
